@@ -1,4 +1,5 @@
-# Beverage Sales Dashboard
+# Beverage Sales Dashboard  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 This dashboard provides key insights into the sales performance, profitability, delivery times, and cost management of various beverage brands. Below is a breakdown of each visual and metric displayed in the dashboard.
 
 ## Overview
